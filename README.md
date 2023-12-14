@@ -15,7 +15,7 @@ El código utiliza el método de Runge-Kutta de cuarto orden para resolver las e
 ## Parámetros de la Simulación
 
 - Duración total de la simulación: 500 años
-- Paso de tiempo: 2400 horas (6 horas)
+- Paso de tiempo: (6 horas)
 
 ## Dependencias
 
