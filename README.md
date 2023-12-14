@@ -12,15 +12,6 @@ Adicionalmente, se ha considerado al Sol en un estado estático. Esto implica qu
 
 El código utiliza el método de Runge-Kutta de cuarto orden para resolver las ecuaciones diferenciales que describen el movimiento de los planetas. La función `planetary_system` define el sistema de ecuaciones diferenciales, y se considera la masa y la dirección de la fuerza entre los planetas.
 
-## Constantes Físicas
-
-- Constante gravitatoria (G): 6.67430e-11 N(m^2)/(kg^2)
-- Masa del Sol: 1.989e30 kg
-
-## Condiciones Iniciales
-
-Se proporcionan condiciones iniciales para los planetas, que incluyen posición y velocidad inicial.
-
 ## Parámetros de la Simulación
 
 - Duración total de la simulación: 500 años
